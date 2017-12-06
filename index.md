@@ -12,17 +12,18 @@ I always enjoy the challenge of solving a problem using new technology; drawing 
 
 ### [Konote](http://konote.ca)
 A client-centered instrument of collaborative care, facilitating the tracking of quantitative and qualitative data, along with analytical tools aiding in ongoing treatment.
-Stack:
+
 - Node.JS
 - Flux/Redux
 - React.JS
-- Node WebKit
+- NW.JS
+- D3.JS
 - Underscore.JS
 - HTML/CSS
 
 ### [Localvore](http://localvore.herokuapp.com)
 My final project for the Bitmaker labs web development course. A partner and I developed a tool for foodies in search of locally sourced ingredients.
-Stack:
+
 - Ruby on Rails
 - PostgreSQL
 - Nokogiri (scraping tool)
