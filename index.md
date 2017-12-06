@@ -26,8 +26,3 @@ My final project for the Bitmaker labs web development course. A partner and I d
 - Nokogiri (scraping tool)
 - Google Maps JavaScript API
 - HTML/CSS
-
-## Contact
-
-joseph.longmoore@gmail.com  
-(905) 334-1820
