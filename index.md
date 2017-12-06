@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/jophis/jophis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I have a love for problem solving. I was first exposed to computer science during my bachelors of civil engineering and decided to pursue this newfound interest after graduating. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I learned the basics of web development and MVC frameworks at a bootcamp course called Bitmaker labs where I developed several Ruby on Rails applications from the ground up. Since then I've gained a couple years worth of work experience as a developer in the GTA using mainly Javascript frameworks.
 
-### Markdown
+I enjoy using plain text languages like Ruby and Python. In my spare time, I'm currently working on projects using the Python frameworks Django and Flask. I'm now seeking the opportunity to gain more work experience using these tools.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I always enjoy the challenge of solving a problem using new technology; drawing upon my experience to learn new tools and adapt quickly.
+ 
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +29,15 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Recent Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jophis/jophis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### [Konote](www.konote.ca)
+A client-centered instrument of collaborative care, facilitating the tracking of quantitative and qualitative data, along with analytical tools aiding in ongoing treatment.
 
-### Support or Contact
+### [Localvore](www.localvore.herokuapp.com)
+A client-centered instrument of collaborative care, facilitating the tracking of quantitative and qualitative data, along with analytical tools aiding in ongoing treatment.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+
+joseph.longmoore@gmail.com
+(905) 334-1820
