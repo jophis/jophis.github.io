@@ -9,10 +9,8 @@ I enjoy using plain text languages like Ruby and Python. In my spare time, I'm c
 I always enjoy the challenge of solving a problem using new technology; drawing upon my experience to learn new tools and adapt quickly.
 
 ## Recent Projects
-
 ### [Konote](http://konote.ca)
 A client-centered instrument of collaborative care, facilitating the tracking of quantitative and qualitative data, along with analytical tools aiding in ongoing treatment.
-
 - Node.JS
 - Flux/Redux
 - React.JS
@@ -23,7 +21,6 @@ A client-centered instrument of collaborative care, facilitating the tracking of
 
 ### [Localvore](http://localvore.herokuapp.com)
 My final project for the Bitmaker labs web development course. A partner and I developed a tool for foodies in search of locally sourced ingredients.
-
 - Ruby on Rails
 - PostgreSQL
 - Nokogiri (scraping tool)
