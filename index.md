@@ -1,6 +1,6 @@
 ## About Me
 
-I have a love for problem solving. I was first exposed to computer science during my bachelors of civil engineering and decided to pursue this newfound interest after graduating. 
+I have a love of problem solving. I was first exposed to computer science during my bachelors of civil engineering and decided to pursue this newfound interest after graduating. 
 
 My professional development began at a bootcamp course called Bitmaker Labs where I learned the basics of web development, databases and MVC frameworks while developing multiple Ruby on Rails applications from the ground up. In my recent work as a full stack developer in the GTA I've spent the majority of my time employing Javascript frameworks along with SQL and proprietary database technologies.
 
